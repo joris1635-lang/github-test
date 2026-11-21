@@ -1,0 +1,17 @@
+# Build
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+runner
+runner.exe
+
+# IDE
+.idea/
+.vscode/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
